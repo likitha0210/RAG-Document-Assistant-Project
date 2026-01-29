@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gen AI Document Assistant
 
 1. Overview:
@@ -62,3 +63,7 @@ Ensure all required paths for model files and vector stores are correct
 Support multiple PDF uploads at once
 Add GPU acceleration for embeddings and LLM inference
 Store vector stores persistently to avoid reprocessing
+=======
+# RAG-Document-Assistant-Project
+RAG Document Assistant – A Retrieval-Augmented Generation system to answer user queries from PDF documents using LLMs, FAISS vector databases, and Hugging Face models.
+>>>>>>> e6c26f7d22ebdee0b33a34489c834b474044549f
